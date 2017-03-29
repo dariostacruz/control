@@ -1,0 +1,65 @@
+
+
+#accordion{
+    width: 20%;
+    float: right;
+}
+
+#tabs{
+    width: 75%;
+    float: left;
+    text-align: center;
+}
+#tabs2{
+    width: 75%;
+    float: left;
+    text-align: center;
+}
+
+.editar{
+    background: steelblue;
+    color: lightgray;  
+}
+
+.eliminar{
+    background:steelblue;
+    color: lightgray; 
+}
+
+.imprimir{
+    background: steelblue;
+    color: lightgray; 
+}
+.boton{
+    width: 13%;
+    height: 5%;
+    background: steelblue;
+    color: lightgray; 
+}
+#dialog-eliminar{
+    display: none;
+}
+#dialog-eliminarf{
+    display: none;
+}
+#dialog-imprimir{
+    display: none;
+}
+#dialog-imprimirf{
+    display: none;
+}
+#dialog-Reporte{
+    display: none;
+}
+#dialog-eliminare{
+    display: none;
+}
+#dialog-imprimire{
+    display: none;
+}
+#dialog-Reporte2{
+    display: none;
+}
+#dialog-Reporte3{
+    display: none;
+}
